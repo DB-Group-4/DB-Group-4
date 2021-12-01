@@ -120,7 +120,9 @@ Approved Restaurant of Campus Eats:
   under the pics directory on the server.
   * Design the new database tables then create the tables using MySQL Workbench.
 # Data Dictionary
-Folloe the below link- https://github.com/DB-Group-4/DB-Group-4/blob/main/updated_DATA%20DICTIONARY.pdf
+Follow the below link- https://github.com/DB-Group-4/DB-Group-4/blob/main/updated_DATA%20DICTIONARY.pdf
+# EERD Diagram
+Follow thw link- https://github.com/DB-Group-4/DB-Group-4/blob/main/EERD%20Diagram.pdf
 # Assignment Notes and Guidelines:  
 Your assignment is to understand a test database for a campus controlled food delivery service similar
 to craveoncampus.com. You will be enhancing the database with a rating system for both restaurants
