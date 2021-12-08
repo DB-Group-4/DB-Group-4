@@ -126,11 +126,11 @@ Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/EERD%20Diagr
 # Final PPT
 Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/DB_Final%20PPT.pptx
 # Final narrated PPT
-Follow the link- 
+Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/Presentation_narration.mov
 # SQL Dump
-Follow the link- 
+Follow the link- https://github.com/DB-Group-4/DB-Group-4/tree/main/SQL%20DUMP
 # Description of stored procedures:
-Follow the link-
+Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/Writing%20stored%20procedure%20-%20Group%204.pdf
 # Assignment Notes and Guidelines:  
 Your assignment is to understand a test database for a campus controlled food delivery service similar
 to craveoncampus.com. You will be enhancing the database with a rating system for both restaurants
