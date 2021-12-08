@@ -122,7 +122,15 @@ Approved Restaurant of Campus Eats:
 # Data Dictionary
 Follow the below link- https://github.com/DB-Group-4/DB-Group-4/blob/main/updated_DATA%20DICTIONARY.pdf
 # EERD Diagram
-Follow thw link- https://github.com/DB-Group-4/DB-Group-4/blob/main/EERD%20Diagram.pdf
+Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/EERD%20Diagram.pdf
+# Final PPT
+Follow the link- https://github.com/DB-Group-4/DB-Group-4/blob/main/DB_Final%20PPT.pptx
+# Final narrated PPT
+Follow the link- 
+# SQL Dump
+Follow the link- 
+# Description of stored procedures:
+Follow the link-
 # Assignment Notes and Guidelines:  
 Your assignment is to understand a test database for a campus controlled food delivery service similar
 to craveoncampus.com. You will be enhancing the database with a rating system for both restaurants
